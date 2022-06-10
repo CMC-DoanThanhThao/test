@@ -17,6 +17,9 @@ Show live weather status at a city
 4. Add widgets to sidebar at menu "Appearance -> Widgets"
 ![image](https://user-images.githubusercontent.com/105334553/172989992-f3d81d34-358d-4aa2-b936-cc570669c0d7.png)
 
+![image](https://user-images.githubusercontent.com/105334553/173009252-3acabba7-be08-4ac3-8c0b-cd3796599a00.png)
+
 ![image](https://user-images.githubusercontent.com/105334553/173008676-72a88696-050f-41f5-b753-90916b77ae76.png)
 
 ![image](https://user-images.githubusercontent.com/105334553/173008834-d49a029d-8885-4371-89a8-03e9ce6b3fb7.png)
+
