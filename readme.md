@@ -2,6 +2,9 @@
 # Live Weather wordpress plugin
 Show live weather status at a city
 
+== Description ==
+This plugin using Third party API data: https://openweathermap.org/
+
  * Plugin Name:       CMC TP Weather Plugin
  * Description:       Show live weather status at a city
  * Version:           1.0.0
@@ -9,7 +12,8 @@ Show live weather status at a city
  * Requires PHP:      7.2
  * Author:            dtthao3
  * License:           GPL v2 or later
-
+ 
+ 
 == Installation ==
 1. Download this folder and Upload to the `/wp-content/plugins/` directory
 2. Activate the plugin named "CMC TP Weather Plugin" through the 'Plugins' menu in WordPress
