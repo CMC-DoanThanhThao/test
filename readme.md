@@ -10,9 +10,7 @@ This plugin using Third party API data: https://openweathermap.org/
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            dtthao3
  * License:           GPL v2 or later
- 
  
 == Installation ==
 1. Download this folder and Upload to the `/wp-content/plugins/` directory
